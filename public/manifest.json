@@ -1,0 +1,15 @@
+{
+  "short_name": "F1 Seasons App",
+  "name": "Shows list of champions and races of f1 seasons",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
